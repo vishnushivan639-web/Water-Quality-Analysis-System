@@ -34,6 +34,20 @@ The system performs:
 * Model Evaluation
 * Data Visualization and Reporting
 
+<img width="584" height="448" alt="1M1B datavis1" src="https://github.com/user-attachments/assets/c73a016c-56ee-448c-ba47-56fa84521b6b" />
+
+
+<img width="593" height="450" alt="1M1B datavis2" src="https://github.com/user-attachments/assets/bb9b650e-87df-4237-b83c-0b6cb5163723" />
+
+
+<img width="575" height="443" alt="1M1B datavis3" src="https://github.com/user-attachments/assets/24331b13-bcab-489b-ace5-9193586e6d54" />
+
+
+
+<img width="534" height="441" alt="1M1B datavis4" src="https://github.com/user-attachments/assets/419ab6bc-b8f2-4ec1-a8b2-09817971c372" />
+
+
+
 AI helps identify patterns in water quality parameters and provides predictions to support informed decision-making.
 
 ## Target Users
