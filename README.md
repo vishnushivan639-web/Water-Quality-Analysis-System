@@ -2,7 +2,7 @@
 
 ## Title
 
-**Water Quality Analysis System Using AI and Machine Learning**
+**Water Quality Analysis System **
 
 **Name:** Vishnu Lakshmi A
 
