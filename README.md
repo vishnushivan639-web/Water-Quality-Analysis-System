@@ -1,6 +1,6 @@
-# 💧 Water Quality Analysis System
+#  Water Quality Analysis System
 
-## 📌 Overview
+##  Overview
 
 Water is one of the most important resources for human life. Checking water quality manually can take time and may not always provide quick results. This project uses Machine Learning to analyze water quality parameters and predict whether the water is safe for drinking or not.
 
@@ -8,7 +8,7 @@ The system helps in understanding different water quality factors and supports b
 
 ---
 
-## 🎯 Project Objective
+##  Project Objective
 
 The main objective of this project is:
 
@@ -19,7 +19,7 @@ The main objective of this project is:
 
 ---
 
-## 📂 Dataset Information
+##  Dataset Information
 
 Dataset Source: Kaggle
 
@@ -40,7 +40,7 @@ The dataset contains several water quality parameters such as:
 
 ---
 
-## 🧹 Data Preprocessing
+##  Data Preprocessing
 
 Before building the model, the dataset was cleaned and prepared.
 
@@ -53,7 +53,7 @@ The following steps were performed:
 
 ---
 
-## 📊 Exploratory Data Analysis (EDA)
+##  Exploratory Data Analysis (EDA)
 
 EDA was performed to understand the dataset better.
 
@@ -68,7 +68,7 @@ Different charts and graphs were used to visualize the data.
 
 ---
 
-## 🔍 Feature Analysis
+##  Feature Analysis
 
 Several water quality parameters were analyzed to identify their impact on water potability.
 
@@ -84,7 +84,7 @@ These features play an important role in determining whether water is safe for c
 
 ---
 
-## 🤖 Machine Learning Model
+##  Machine Learning Model
 
 A Machine Learning classification model was developed to predict water potability.
 
@@ -99,7 +99,7 @@ The model learns patterns from historical water quality data and predicts whethe
 
 ---
 
-## 📈 Model Evaluation
+##  Model Evaluation
 
 The model performance was evaluated using:
 
@@ -113,7 +113,7 @@ These metrics help measure the effectiveness of the prediction model.
 
 ---
 
-## 📊 Data Visualization
+##  Data Visualization
 
 Various visualizations were created to better understand the dataset.
 
@@ -138,7 +138,7 @@ These charts help identify trends and relationships between water quality parame
 
 ---
 
-## 💻 Technologies Used
+##  Technologies Used
 
 * Python
 * Pandas
@@ -151,7 +151,7 @@ These charts help identify trends and relationships between water quality parame
 
 ---
 
-## 🌍 Sustainability Impact
+##  Sustainability Impact
 
 This project supports environmental sustainability by helping monitor water quality and promoting access to safe drinking water.
 
@@ -161,6 +161,6 @@ SDG 6 – Clean Water and Sanitation
 
 ---
 
-## 📌 Conclusion
+##  Conclusion
 
 The Water Quality Analysis System demonstrates how Machine Learning can be used to analyze environmental data and predict water safety. The project helps improve understanding of water quality conditions and supports better decision-making for sustainable water management.
