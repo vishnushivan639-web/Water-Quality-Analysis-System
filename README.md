@@ -1,19 +1,5 @@
 # Water Quality Analysis System
 
-## Title
-
-**Water Quality Analysis System **
-
-**Name:** Vishnu Lakshmi A
-
-**College:** Kamaraj College
-
-## SDG Alignment
-
-**SDG 6: Clean Water and Sanitation**
-
-This project supports Sustainable Development Goal (SDG) 6 by helping monitor and analyze water quality using data analytics and machine learning techniques. The system aims to identify whether water is safe for consumption and support better water resource management.
-
 ## Problem Statement
 
 Access to clean and safe drinking water is a major challenge in many regions. Manual water quality monitoring can be time-consuming and may not provide quick insights for decision-making.
